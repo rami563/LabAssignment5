@@ -1,4 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/pink-bluegrey.css";
+
 * {
     margin: 0px;
     padding: 0px;
@@ -24,7 +26,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 5fr 2fr;
     height: 100%;
-
+    width: 100%;
 }
 
 .row-two {
@@ -35,5 +37,5 @@ body {
 
 .container-padding {
     margin: 12px;
-    border: 1px dashed black;
+    border: 1px dashed #a69f9f;
 }

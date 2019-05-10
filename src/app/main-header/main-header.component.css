@@ -1,7 +1,6 @@
-.row-one {
-    background-color:  green;
+.nav-buttons {
+    margin-right: 10px;
 }
-.container-padding {
-    margin: 12px;
-    border: 1px dashed black;
+.toolbar {
+    height: 100%;
 }
