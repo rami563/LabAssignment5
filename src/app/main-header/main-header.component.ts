@@ -9,8 +9,8 @@ import { Router } from '@angular/router';
 })
 export class MainHeaderComponent implements OnInit {
 
-  firstName = 'Agratsant';
-  lastName = 'Saxena';
+  firstName = 'Rami';
+  lastName = 'Abed';
   greeting = 'r1c2';
 
   constructor(
